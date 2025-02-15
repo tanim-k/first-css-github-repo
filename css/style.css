@@ -5,3 +5,8 @@ div{
     margin: 12px;
     border-radius: 20px;
 }
+.img{
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid green;
+}
